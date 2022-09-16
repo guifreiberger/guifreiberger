@@ -1,4 +1,4 @@
-## Olá, me chamo Gui ! 
+## Olá, me chamo Gui! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 <div style = align: "center">
