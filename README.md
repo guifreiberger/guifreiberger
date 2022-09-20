@@ -19,7 +19,8 @@
  
 <div>
  <h1>Onde pode me encontrar!</h1> 
- <a href="https://twitter.com/GuiizinXD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitkumarcse1" height="30" width="40" /></a>
+ <a href="https://twitter.com/GuiizinXD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GuiizinXD" height="50" width="60" /></a>
+ <a href="https://instagram.com/guifreiberger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guifreiberger_" height="50" width="60" /></a>
 </div>
  
 
