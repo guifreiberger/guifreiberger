@@ -1,5 +1,5 @@
-<h1>Olá, me chamo Gui!<h1/>
-<h1>Bem vindo ao meu perfil GitHub 👋<h1/>
+<h1>Olá, me chamo Gui!
+Bem vindo ao meu perfil GitHub 👋<h1/>
 
 <div style = align: "center">
 <a href="https://github.com/guifreiberger">
