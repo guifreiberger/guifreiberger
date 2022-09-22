@@ -19,7 +19,7 @@ Bem vindo ao meu perfil GitHub 👋<h1/>
 ![Snake animation](https://github.com/guifreiberger/guifreiberger/blob/output/github-contribution-grid-snake.svg) 
  
 <div>
- <h1>Onde pode me encontrar!</h1> 
+ <h4>Onde pode me encontrar!</h4> 
  <a href="https://twitter.com/GuiizinXD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GuiizinXD" height="50" width="60" /></a>
  <a href="https://instagram.com/guifreiberger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guifreiberger_" height="50" width="60" /></a>
 </div>
