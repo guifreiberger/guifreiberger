@@ -20,7 +20,8 @@ Bem vindo ao meu perfil GitHub 👋<h1/>
  
 <div>
  <h4>Onde pode me encontrar!</h4> 
- <a href="https://instagram.com/guifreiberger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guifreiberger_" height="50" width="60" /></a>
+ <a href="https://instagram.com/guifreiberger_" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guifreiberger_" height="50" width="60" /></a>
+ 
 </div>
  
 
