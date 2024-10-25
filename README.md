@@ -14,15 +14,8 @@ Bem vindo ao meu perfil GitHub 👋<h1/>
   <img align="center" alt="Gui-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Gui-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-</div>
- 
-![Snake animation](https://github.com/guifreiberger/guifreiberger/blob/output/github-contribution-grid-snake.svg) 
- 
-<div>
  <h4>Onde pode me encontrar!</h4> 
- <br>
  <a href="https://instagram.com/guifreiberger_" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guifreiberger_" height="50" width="60" /></a>
- 
 </div>
  
 
