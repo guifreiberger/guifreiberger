@@ -1,4 +1,4 @@
-<h1>Olá, me chamo Gui!
+<h1>Olá, me chamo Guilherme!
  <br>
 Bem vindo ao meu perfil GitHub 👋<h1/>
 
