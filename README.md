@@ -36,7 +36,7 @@
   <a href="https://instagram.com/guifreiberger_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/guifreiberger/" target="_blank">
+  <a href="[https://www.linkedin.com/in/guifreiberger/](https://www.linkedin.com/in/guilherme-freiberger-06b521187/)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
 </div>
