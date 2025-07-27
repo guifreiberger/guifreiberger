@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Guilherme! 👋</h1>
 <h3 align="center">Bem-vindo ao meu perfil GitHub</h3>
 
-<img align="right" alt="Hello world" width="300" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+<img align="right" alt="Hello world" width="300" src="https://tenor.com/pt-BR/view/hello-world-gif-18564330">
 
 <div align="center">
   <a href="https://github.com/guifreiberger">
