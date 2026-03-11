@@ -26,7 +26,6 @@
   <img align="center" alt="Gui-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Gui-Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gui-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Gui-Cache" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/InterSystems_Logo.png">
 </div>
 
 ---
