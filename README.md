@@ -27,15 +27,3 @@
   <img align="center" alt="Gui-Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gui-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
-
----
-
-### 📲 Onde pode me encontrar:
-<div>
-  <a href="https://instagram.com/guifreiberger_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-freiberger-06b521187/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-</div>
