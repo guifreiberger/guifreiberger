@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/guifreiberger">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guifreiberger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifreiberger&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifreiberger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifreiberger&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>
 
@@ -33,32 +33,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="60"/>
 </p>
 
 ---
 
 ### 📚 Conhecimentos Complementares
 - Clean Architecture  
-- APIs REST  
+- APIs REST & Integrações  
 - Keycloak & Autenticação  
 - Firebase Integration  
 - Banco de Dados Relacional  
 - Git & GitHub  
+- Docker & Deploy  
 - UI/UX com Figma  
 - Desenvolvimento Mobile e Web  
 
 ---
 
 ### 🌟 Sobre mim
-- 💼 Desenvolvedor na área de tecnologia
-- 🎓 Estudante de Engenharia de Software
-- 📱 Experiência com projetos Flutter, React, Spring Boot e Caché
-- 🚀 Sempre buscando evolução técnica e novos desafios
+- 💼 Desenvolvedor na área de tecnologia  
+- 🎓 Estudante de Engenharia de Software  
+- 📱 Experiência com Flutter, React, Angular, Spring Boot e Caché  
+- 🔐 Interesse em arquitetura moderna, segurança e automação  
+- 🚀 Sempre buscando evolução técnica e novos desafios  
 
 ---
 
 ### 📫 Contato
 <div align="center">
-  <a href="mailto:guigafreiberger@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/guilherme-freiberger-06b521187//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:guigafreiberger@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-freiberger-06b521187/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
