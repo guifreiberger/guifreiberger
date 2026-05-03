@@ -1,9 +1,9 @@
-<h1 align="center">Olá, eu sou Guilherme Freiberger 👋</h1>
-<h3 align="center">Desenvolvedor de Software | Back-end, Front-end & Mobile</h3>
+<h1 align="center">Olá, eu sou o Guilherme Freiberger 👋</h1>
+<h3 align="center">Software Engineer </h3>
 
 <p align="center">
-  Apaixonado por tecnologia, desenvolvimento de sistemas e criação de soluções inovadoras.<br>
-  Atualmente atuando com <strong>Caché InterSystems</strong>, além de experiência com aplicações web, mobile e integrações modernas.
+  Construindo soluções robustas para o mercado e aplicando rigor metodológico em projetos tecnológicos.<br>
+  Atualmente, unindo o desenvolvimento corporativo com <strong>Caché InterSystems</strong> à pesquisa e arquitetura de software.
 </p>
 
 <div align="center">
@@ -19,45 +19,41 @@
 
 ---
 
-### 🚀 Principais Tecnologias
+### 🌟 Sobre mim
+- 🎓 **Acadêmico:** Estudante da 7ª fase de Engenharia de Software na **Católica SC**.
+- 💼 **Profissional:** Atuando no mercado com **Caché InterSystems**, focado em sistemas de alta performance, integrações modernas e desenvolvimento Web/Mobile.
+- 🔬 **Pesquisa & Lógica:** Envolvido com pesquisa acadêmica estruturada (diretrizes da SBC), documentação técnica avançada e resolução de problemas lógicos e matemáticos utilizando Python.
+- 🎯 **Foco Atual:** Aplicar arquitetura limpa e boas práticas exigidas pelo mercado, unindo a base teórica sólida da faculdade com as entregas ágeis corporativas.
+
+---
+
+### 🚀 Minha Caixa de Ferramentas
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="60"/>
+  <!-- Frontend & Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="60" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="60" title="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="60" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" width="60" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="60" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="60" title="TypeScript"/>
+  <br><br>
+  <!-- Backend, DB & Outros -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" width="60" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="60" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="60" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="60" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="60" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="60" title="Git"/>
 </p>
 
 ---
 
-### 📚 Conhecimentos Complementares
-- Clean Architecture  
-- APIs REST & Integrações  
-- Keycloak & Autenticação  
-- Firebase Integration  
-- Banco de Dados Relacional  
-- Git & GitHub  
-- Docker & Deploy  
-- UI/UX com Figma  
-- Desenvolvimento Mobile e Web  
-
----
-
-### 🌟 Sobre mim
-- 💼 Desenvolvedor na área de tecnologia  
-- 🎓 Estudante de Engenharia de Software  
-- 📱 Experiência com Flutter, React, Angular, Spring Boot e Caché  
-- 🔐 Interesse em arquitetura moderna, segurança e automação  
-- 🚀 Sempre buscando evolução técnica e novos desafios  
+### 📚 Arquitetura & Conhecimentos
+- **Engenharia de Software:** Clean Architecture, Lógica Estruturada, Metodologia de Pesquisa
+- **Integrações:** APIs REST, Keycloak & Autenticação, Firebase Integration
+- **Infraestrutura:** Bancos de Dados Relacionais, Docker & Deploy, Git/GitHub
+- **Design:** UI/UX com Figma
 
 ---
 
