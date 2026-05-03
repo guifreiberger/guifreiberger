@@ -4,7 +4,6 @@
 ### 🌟 Sobre mim
 - 🎓 **Acadêmico:** Estudante da 7ª fase de Engenharia de Software na **Católica SC**.
 - 💼 **Profissional:** Atuando no mercado com **Caché InterSystems** na Consistem Sistemas
-- 🔬 **Pesquisa & Lógica:** Envolvido com pesquisa acadêmica estruturada (diretrizes da SBC), documentação técnica avançada e resolução de problemas lógicos e matemáticos utilizando Python.
 - 🎯 **Foco Atual:** Aplicar arquitetura limpa e boas práticas exigidas pelo mercado, unindo a base teórica sólida da faculdade com as entregas ágeis corporativas.
 
 ---
