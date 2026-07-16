@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou o Guilherme Freiberger 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ### 🌟 Sobre mim
 - 🎓 **Acadêmico:** Estudante da 8ª fase de Engenharia de Software na **Católica SC**.
 - 💼 **Profissional:** Desenvolvedor, atualmente com forte foco e atuação no ecossistema **Node.js** no Grupo Booz.
