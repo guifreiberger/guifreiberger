@@ -1,30 +1,45 @@
 <h1 align="center">Olá, eu sou o Guilherme Freiberger 👋</h1>
-<h3 align="center">Software Engineer </h3>
+<h3 align="center">Software Engineer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ### 🌟 Sobre mim
-- 🎓 **Acadêmico:** Estudante da 7ª fase de Engenharia de Software na **Católica SC**.
-- 💼 **Profissional:** Atuando no mercado com **Caché InterSystems** na Consistem Sistemas
-- 🎯 **Foco Atual:** Aplicar arquitetura limpa e boas práticas exigidas pelo mercado, unindo a base teórica sólida da faculdade com as entregas ágeis corporativas.
+- 🎓 **Acadêmico:** Estudante da 8ª fase de Engenharia de Software na **Católica SC**.
+- 💼 **Profissional:** Desenvolvedor, atualmente com forte foco e atuação no ecossistema **Node.js** no Grupo Booz.
+- 🎯 **Foco Atual:** Aplicar Clean Architecture e boas práticas exigidas pelo mercado no desenvolvimento web, unindo a sólida base teórica acadêmica com entregas ágeis corporativas.
 
 ---
 
 ### 🚀 Minha Caixa de Ferramentas
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" title="Git"/>
+#### 💻 Front-end & Mobile
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" title="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
 </div>
+
+#### ⚙️ Back-end & Dados
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase"/>
+</div>
+
+#### 🔧 DevOps & Ferramentas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+</div>
+
 ---
 
 ### 📚 Arquitetura & Conhecimentos
@@ -32,6 +47,15 @@
 - **Integrações:** APIs REST, Keycloak & Autenticação, Firebase Integration
 - **Infraestrutura:** Bancos de Dados Relacionais, Docker & Deploy, Git/GitHub
 - **Design:** UI/UX com Figma
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ---
 
